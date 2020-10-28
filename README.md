@@ -1,0 +1,2 @@
+# vsr
+Veebilehe seminari repo
