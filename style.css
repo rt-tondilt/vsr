@@ -1,0 +1,17 @@
+h1 {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-align: center;
+    color: purple;
+    font-size: 50pt;
+}
+h1:hover {
+    transform: rotateZ(30deg);
+}
+
+div {
+    font-family: Courier, monospace;
+}
+
+html {
+    background-color: lime;
+}
